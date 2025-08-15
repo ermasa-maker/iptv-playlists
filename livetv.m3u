@@ -1,21 +1,69 @@
 #EXTM3U
+
+# News
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-language="English" tvg-country="GB" group-title="News | UK",BBC News (EN)
-https://live-hls-web-uk.bbc.co.uk/live/bbcnews.m3u8
+https://iptv-org.github.io/iptv/bbc-news.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-language="English" tvg-country="US" group-title="News | USA",CNN (EN)
 https://iptv-org.github.io/iptv/cnn.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-language="Hindi" tvg-country="IN" group-title="News | India",NDTV India (HI)
 https://iptv-org.github.io/iptv/ndtv-india.m3u8
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-language="English" tvg-country="JP" group-title="News | Japan",NHK World-Japan (EN)
 https://iptv-org.github.io/iptv/nhk-world.m3u8
-#EXTINF:-1 tvg-id="NASA.us" tvg-language="English" tvg-country="US" group-title="Documentaries | USA",NASA TV (EN)
-https://iptv-org.github.io/iptv/nasa-tv.m3u8
 #EXTINF:-1 tvg-id="CCTVNews.cn" tvg-language="Mandarin" tvg-country="CN" group-title="News | China",CCTV News (ZH)
 https://iptv-org.github.io/iptv/cctv-news.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.ae" tvg-language="English" tvg-country="AE" group-title="News | UAE",Al Jazeera (EN)
 https://iptv-org.github.io/iptv/aljazeera.m3u8
-#EXTINF:-1 tvg-id="Arirang.kr" tvg-language="English" tvg-country="KR" group-title="Entertainment | Korea",Arirang TV (EN)
-https://iptv-org.github.io/iptv/arirang.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-language="English" tvg-country="US" group-title="Children | USA",Cartoon Network (EN)
-https://iptv-org.github.io/iptv/cartoon-network.m3u8
+
+# Sports
+#EXTINF:-1 tvg-id="ESPN.us" tvg-language="English" tvg-country="US" group-title="Sports | USA",ESPN (EN)
+https://iptv-org.github.io/iptv/espn.m3u8
+#EXTINF:-1 tvg-id="TenSports.in" tvg-language="Hindi" tvg-country="IN" group-title="Sports | India",Ten Sports (HI)
+https://iptv-org.github.io/iptv/ten-sports.m3u8
+#EXTINF:-1 tvg-id="SuperSport.za" tvg-language="English" tvg-country="ZA" group-title="Sports | South Africa",SuperSport (EN)
+https://iptv-org.github.io/iptv/supersport.m3u8
+
+# Movies
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-language="Hindi" tvg-country="IN" group-title="Movies | India",Zee Cinema (HI)
 https://iptv-org.github.io/iptv/zee-cinema.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.us" tvg-language="English" tvg-country="US" group-title="Movies | USA",Fox Movies (EN)
+https://iptv-org.github.io/iptv/fox-movies.m3u8
+#EXTINF:-1 tvg-id="BBCMovies.uk" tvg-language="English" tvg-country="GB" group-title="Movies | UK",BBC Movies (EN)
+https://iptv-org.github.io/iptv/bbc-movies.m3u8
+
+# Music
+#EXTINF:-1 tvg-id="ArirangKpop.kr" tvg-language="English" tvg-country="KR" group-title="Music | Korea",Arirang K-POP (EN)
+https://iptv-org.github.io/iptv/arirang.m3u8
+#EXTINF:-1 tvg-id="MTV.us" tvg-language="English" tvg-country="US" group-title="Music | USA",MTV (EN)
+https://iptv-org.github.io/iptv/mtv.m3u8
+
+# Entertainment
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-language="English" tvg-country="AE" group-title="Entertainment | UAE",Dubai One (EN)
+https://iptv-org.github.io/iptv/dubai-one.m3u8
+#EXTINF:-1 tvg-id="ArirangCulture.kr" tvg-language="English" tvg-country="KR" group-title="Entertainment | Korea",Arirang Culture (EN)
+https://iptv-org.github.io/iptv/arirang-culture.m3u8
+
+# Documentaries
+#EXTINF:-1 tvg-id="NASA.us" tvg-language="English" tvg-country="US" group-title="Documentaries | USA",NASA TV (EN)
+https://iptv-org.github.io/iptv/nasa-tv.m3u8
+#EXTINF:-1 tvg-id="CCTVDocumentary.cn" tvg-language="Mandarin" tvg-country="CN" group-title="Documentaries | China",CCTV Documentary (ZH)
+https://iptv-org.github.io/iptv/cctv-doc.m3u8
+
+# Children
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-language="English" tvg-country="US" group-title="Children | USA",Cartoon Network (EN)
+https://iptv-org.github.io/iptv/cartoon-network.m3u8
+#EXTINF:-1 tvg-id="NHKKids.jp" tvg-language="English" tvg-country="JP" group-title="Children | Japan",NHK Kids (EN)
+https://iptv-org.github.io/iptv/nhk-kids.m3u8
+
+# Cooking & Lifestyle
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-language="English" tvg-country="US" group-title="Cooking & Lifestyle | USA",Food Network (EN)
+https://iptv-org.github.io/iptv/food-network.m3u8
+#EXTINF:-1 tvg-id="TLC.us" tvg-language="English" tvg-country="US" group-title="Cooking & Lifestyle | USA",TLC (EN)
+https://iptv-org.github.io/iptv/tlc.m3u8
+
+# International Films & Series
+#EXTINF:-1 tvg-id="BBCWorld.uk" tvg-language="English" tvg-country="GB" group-title="International Films & Series | UK",BBC World (EN)
+https://iptv-org.github.io/iptv/bbc-world.m3u8
+
+# Classic Films
+#EXTINF:-1 tvg-id="TCM.us" tvg-language="English" tvg-country="US" group-title="Classic Films | USA",Turner Classic Movies (EN)
+https://iptv-org.github.io/iptv/tcm.m3u8
