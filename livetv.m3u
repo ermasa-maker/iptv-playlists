@@ -2,20 +2,14 @@
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-language="English" tvg-country="JP" group-title="News | Japan",NHK World-Japan (EN)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="ArirangTV" tvg-language="English" tvg-country="KR" group-title="News | Korea",Arirang TV (EN)
-https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNEnglish" tvg-language="English" tvg-country="CN" group-title="News | China",CGTN (EN)
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 tvg-id="ScrippsNews" tvg-language="English" tvg-country="US" group-title="News | USA",Scripps News (EN)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-language="English" tvg-country="CN" group-title="Documentaries | China",CGTN Documentary (EN)
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 tvg-id="NASATV" tvg-language="English" tvg-country="US" group-title="Documentaries | USA",NASA TV Public Channel (EN)
+https://arirang.com/ArirangTV.m3u8
+#EXTINF:-1 tvg-id="NASA-TV" tvg-language="English" tvg-country="US" group-title="Documentaries | USA",NASA TV (EN)
 https://ntv1.akamaized.net/hls/live/2013924/NASA-NTV1/master.m3u8
+#EXTINF:-1 tvg-id="CGTN-English" tvg-language="English" tvg-country="CN" group-title="News | China",CGTN (EN)
+https://www.cgtn.com/live/cgtn.m3u8
 #EXTINF:-1 tvg-id="DubaiOne" tvg-language="English" tvg-country="AE" group-title="Entertainment | UAE",Dubai One (EN)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangKpop" tvg-language="English" tvg-country="KR" group-title="Music | Korea",Arirang K-POP (EN)
-https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldKids" tvg-language="English" tvg-country="JP" group-title="Children | Japan",NHK World Kids Blocks (EN)
+#EXTINF:-1 tvg-id="NHKWorldKids" tvg-language="English" tvg-country="JP" group-title="Children | Japan",NHK World Kids (EN)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="ArirangCulture" tvg-language="English" tvg-country="KR" group-title="International Films & Series | Korea",Arirang Culture (EN)
-https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangKpop" tvg-language="English" tvg-country="KR" group-title="Music | Korea",Arirang K-POP (EN)
+https://arirang.com/KPOP.m3u8
