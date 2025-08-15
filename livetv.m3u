@@ -1,15 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-language="English" tvg-country="JP" group-title="News | Japan",NHK World-Japan (EN)
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="ArirangTV" tvg-language="English" tvg-country="KR" group-title="News | Korea",Arirang TV (EN)
-https://arirang.com/ArirangTV.m3u8
-#EXTINF:-1 tvg-id="NASA-TV" tvg-language="English" tvg-country="US" group-title="Documentaries | USA",NASA TV (EN)
-https://ntv1.akamaized.net/hls/live/2013924/NASA-NTV1/master.m3u8
-#EXTINF:-1 tvg-id="CGTN-English" tvg-language="English" tvg-country="CN" group-title="News | China",CGTN (EN)
-https://www.cgtn.com/live/cgtn.m3u8
-#EXTINF:-1 tvg-id="DubaiOne" tvg-language="English" tvg-country="AE" group-title="Entertainment | UAE",Dubai One (EN)
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldKids" tvg-language="English" tvg-country="JP" group-title="Children | Japan",NHK World Kids (EN)
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="ArirangKpop" tvg-language="English" tvg-country="KR" group-title="Music | Korea",Arirang K-POP (EN)
-https://arirang.com/KPOP.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-language="English" tvg-country="GB" group-title="News | UK",BBC News (EN)
+https://live-hls-web-uk.bbc.co.uk/live/bbcnews.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-language="English" tvg-country="US" group-title="News | USA",CNN (EN)
+https://iptv-org.github.io/iptv/cnn.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-language="Hindi" tvg-country="IN" group-title="News | India",NDTV India (HI)
+https://iptv-org.github.io/iptv/ndtv-india.m3u8
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-language="English" tvg-country="JP" group-title="News | Japan",NHK World-Japan (EN)
+https://iptv-org.github.io/iptv/nhk-world.m3u8
+#EXTINF:-1 tvg-id="NASA.us" tvg-language="English" tvg-country="US" group-title="Documentaries | USA",NASA TV (EN)
+https://iptv-org.github.io/iptv/nasa-tv.m3u8
+#EXTINF:-1 tvg-id="CCTVNews.cn" tvg-language="Mandarin" tvg-country="CN" group-title="News | China",CCTV News (ZH)
+https://iptv-org.github.io/iptv/cctv-news.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.ae" tvg-language="English" tvg-country="AE" group-title="News | UAE",Al Jazeera (EN)
+https://iptv-org.github.io/iptv/aljazeera.m3u8
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-language="English" tvg-country="KR" group-title="Entertainment | Korea",Arirang TV (EN)
+https://iptv-org.github.io/iptv/arirang.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-language="English" tvg-country="US" group-title="Children | USA",Cartoon Network (EN)
+https://iptv-org.github.io/iptv/cartoon-network.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-language="Hindi" tvg-country="IN" group-title="Movies | India",Zee Cinema (HI)
+https://iptv-org.github.io/iptv/zee-cinema.m3u8
